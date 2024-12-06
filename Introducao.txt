@@ -1,0 +1,54 @@
+
+O que é computação em nuvem?
+	É o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e econosmias de escala.
+	
+
+tipos de nuvens
+	Nuvem privada - 
+		- Um ambiente em nuvem em seu datacenter
+		- As organizações são responsáveis por operar os serviços que fornecem
+		- Não fornece acesso aos usuário fora da orgamização
+
+	Nuvem pública -
+		- Entrega de serviços a múltiplos clientes
+		- Pertencente a serviços de nuvem ou provedor de hosting
+		- Fornece recursos e serviços  a várias organizações e usuários
+		- Acessada via conexão de rede segura (internet)
+
+	Nuvem híbrida -
+		- pública e privada
+		- combina nuvens públicas e privadas para permitir que os aplicativos sejam executados no local mais adequado
+
+	Modelo multi cloud 
+		- Mais de uma cloud
+
+
+Obs: CapEx (depesa de capital)
+
+
+Comparação - 
+	Nuvem pública -
+		- Nenhuma despesa de capital para escalar verticalmente
+		- os aplicativos podem ser provisionados e desprovisionados rapidamente
+		- As organizações pagam apenas pelo que utilizam 
+	Nuvem privada - 
+		- As organizações tem controle total sobre os recursos e segurança
+		- As organizações são responsáveis pela manutenção e pelas atualizações do hardware
+	Nuvem híbrida -
+		- As organizações determinam onde executar seus aplicativos
+		- As organizações controlam a segurança, a conformidade e requisitos legais
+		- Fornece maior felxibilidade
+		
+	
+CapEx - despesa de capital
+	- O gasto inicial de dinheiro em infraestrutura física
+	- As despesas do CapEx têm um valor que se reduz com o tempo
+
+OpEx - Despesas operacionais 
+	- Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.
+	- Seja cobrado imediatamente. 
+	- Tudo que fica ativo está sujeito a cobrança
+
+Modelo baseado em consumo - 
+	- Os provedores de serviço em nuve, operam em um modelo baseado no consumo, o que significa que os usuários finais pagam somente pelo recurso que usam. 
+	- Pagam pelo tempo que usou
