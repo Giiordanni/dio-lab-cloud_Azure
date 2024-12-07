@@ -1,0 +1,16 @@
+Beneficíos:
+    - Disponibilidade: recursos disponíveis sempre que nescessário. Manter o máximo possível dos serviõs ativos
+    - Escalabilidade: capacidade de crescer e diminuir conforme a demanda. Adicionar ercursos para lidar melhor com o aumento da demanda
+        - Dimensionamento vertical
+            Com o dimensionamento vertical, se você estivesse desenvolvendo um aplicativo e precisasse de mais poder de processamento, poderia escalar verticalmente para adicionar mais CPUs ou RAM à máquina virtual. Por outro lado, se você percebesse que tinha especificado demais as necessidades, poderia reduzir verticalmente reduzindo as especificações de CPU ou RAM.
+
+        - Dimensionamento horizontal
+            Com o dimensionamento horizontal, se você de repente tiver um salto acentuado na demanda, seus recursos implantados poderão ser dimensionados (automática ou manualmente). Por exemplo, você pode adicionar máquinas virtuais ou contêineres adicionais, dimensionando-os. Da mesma forma, se houvesse uma queda significativa na demanda, os recursos implantados poderiam ser dimensionados (automaticamente ou manualmente), escalando.
+            
+    - Elasticidade: expandir recursos. Você pode adicionar 
+    máquinas virtuais ou contâineres por meio da expansão. Se cair a demnada os recursos poderão ser reduzidos manualmente
+    - Confiabilidade: devido ao design descentralizado, a nuvem dà suporte a uma infraestrutura confiável e resiliente e também permite que você tenha recursos inplantados em várias regiões do mundo. 
+    - Previsibilidade: confiança no desempenho ou no custo. 
+    - Segurança: a nuvem oferece ferramnetas de segurança, mas a implementação delas é responsabilidade do programador.
+    - Governança: como vamos gerir os recursos e os padrões que iremos colocar. Estabelecer uma presença de governança o mais cedo possível e asssim manter sua presença de nuvem atualizada, protegida e bem gerenciada. Estabelcer regras para atender os padrões de mercado
+    - Gerenciabilidade: gerenciar os recursos da nuvem. Diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos. Exemplo: usandi Apis, powershell, linha de comando e etc.
