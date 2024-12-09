@@ -1,0 +1,9 @@
+quando eu dou um comando 'su' eu fico logado como usuário root.
+
+O usuário root no Linux é o administrador do sistema, com permissões completas para executar qualquer comando e acessar todos os arquivos no sistema. Ele tem controle total sobre o sistema operacional, incluindo a capacidade de modificar arquivos de sistema, instalar e remover software, e alterar configurações de segurança.
+
+quando aparece o # signofica que sou o super usuário. nao preciso de senha para nada
+
+
+quando esta no root e quiser voltar para o usuario convencional o comnado é:
+su giordanni - nome do usuario convencional

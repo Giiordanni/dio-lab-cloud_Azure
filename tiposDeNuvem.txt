@@ -1,0 +1,21 @@
+Tipos de serviços em nuvem
+
+- IaaS: Infraestrutura como serviço
+	- Tende a ser recursos/serviços onde nós clientes teremos mais acesso. Servidores e armazenamento, firewalls/seguraça de rede; planta física/edificío do datacenter. 
+	- Tende a fornecer infraestruturapara seus usuários
+	- Serviço de nuvem mais flexível;
+	- O programador configura e gerencia o hardware para seu aplicativo.
+
+- PaaS: Plataforma como serviço
+	- Sistemas operacionais, ferramentas para desenvolvedores, análise de negócios de gerenciamento de database.
+	- Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente
+	- Focado no desenvolvimento de aplicativos;
+	- O gerenciamento da plataforma é realizado pelo provedor de nuvem
+
+- SaaS: Software como Serviço
+	- O programador insere os dados;
+	- Aplicativos/apps hospedados;
+	- Os usuários se conectam e usam aplicativos com base em nuvem pela internet
+	- Modelo de preço de pagamento conforme o uso
+
+
